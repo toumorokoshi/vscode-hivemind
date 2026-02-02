@@ -5,7 +5,7 @@ import { SyncManager } from './syncManager';
 let syncManager: SyncManager | undefined;
 
 export function activate(context: vscode.ExtensionContext) {
-    console.log('Congratulations, your extension "vscode-hivemind" is now active!');
+    console.log('Congratulations, your extension "code-hivemind" is now active!');
 
     syncManager = new SyncManager(context);
 

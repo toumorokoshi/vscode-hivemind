@@ -1,6 +1,6 @@
 # Design
 
-This document describes the motivation and approach for vscode-hivemind
+This document describes the motivation and approach for code-hivemind
 
 ## Problem Statement
 
@@ -13,7 +13,7 @@ For those that use multiple editors, or are migrating from one to the other, thi
 
 ## Proposal
 
-The proposal is to produce a vscode-hivemind extension that allows one editor to treat another editor's settings as the source of truth. For example, you might install this extension when using [antigravity](https://antigravity.google/), and point at your vscode setttings as the synchronization point.
+The proposal is to produce a code-hivemind extension that allows one editor to treat another editor's settings as the source of truth. For example, you might install this extension when using [antigravity](https://antigravity.google/), and point at your vscode setttings as the synchronization point.
 
 ### User journeys
 

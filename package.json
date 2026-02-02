@@ -1,11 +1,11 @@
 {
-  "name": "vscode-hivemind",
+  "name": "code-hivemind",
   "displayName": "VSCode Hivemind",
   "description": "Synchronize settings from another editor instance",
   "publisher": "yft",
   "repository": {
     "type": "git",
-    "url": "https://github.com/toumorokoshi/vscode-hivemind"
+    "url": "https://github.com/toumorokoshi/code-hivemind"
   },
   "version": "0.0.1",
   "engines": {
